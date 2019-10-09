@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5d9d5211f893d10f191a851c"},"movies":[{"$oid":"5d9d5211f893d10f191a8526"}],"first_name":"Frank","mi":"","last_name":"Darabont","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a851e"},"movies":[{"$oid":"5d9d5211f893d10f191a8527"},{"$oid":"5d9d5211f893d10f191a8528"}],"first_name":"Francis","mi":"Ford","last_name":"Coppola","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a851f"},"movies":[{"$oid":"5d9d5211f893d10f191a8529"}],"first_name":"Quentin","mi":"","last_name":"Tarantino","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a8520"},"movies":[{"$oid":"5d9d5211f893d10f191a852a"}],"first_name":"Sergio","mi":"","last_name":"Leone","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a8521"},"movies":[{"$oid":"5d9d5211f893d10f191a852b"}],"first_name":"Christopher","mi":"","last_name":"Nolan","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a8522"},"movies":[{"$oid":"5d9d5211f893d10f191a852c"}],"first_name":"Sidney","mi":"","last_name":"Lumet","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a8523"},"movies":[{"$oid":"5d9d5211f893d10f191a852d"}],"first_name":"Steven","mi":"","last_name":"Spielberg","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a8524"},"movies":[{"$oid":"5d9d5211f893d10f191a852e"}],"first_name":"Peter","mi":"","last_name":"Jackson","__v":1}
+{"_id":{"$oid":"5d9d5211f893d10f191a8525"},"movies":[{"$oid":"5d9d5211f893d10f191a852f"}],"first_name":"David","mi":"","last_name":"Fincher","__v":1}
